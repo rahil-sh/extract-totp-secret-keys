@@ -561,12 +561,12 @@
         },
         "types-protobuf": {
             "hashes": [
-                "sha256:e4dc2554d342501d5aebc3c71203868b51118340e105fc190e3a64ca1be43831",
-                "sha256:e6074178109f97efe9f0b20a035ba61d7c3b03e867eb47d254d2b2ab6a805e36"
+                "sha256:5443270534cc8072909ef7ad9e1421ccff924ca658749a6396c0c43d64c32676",
+                "sha256:bb6f90f66b18d4d1c75667b6586334b0573a6fcee5eb0142a7348a765a7cbadc"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==5.26.0.20240422"
+            "version": "==5.27.0.20240907"
         },
         "typing-extensions": {
             "hashes": [
